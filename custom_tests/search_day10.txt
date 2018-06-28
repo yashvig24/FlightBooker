@@ -1,0 +1,11 @@
+# user 1
+search "Seattle WA" "Boston MA" 0 10 1
+quit
+*
+#
+# expected printouts for user 1
+#
+Itinerary 0: 1 flight(s), 309 minutes
+ID: 708454 Day: 10 Carrier: AS Number: 734 Origin: Seattle WA Dest: Boston MA Duration: 309 Capacity: 5 Price: 677
+Goodbye
+*
